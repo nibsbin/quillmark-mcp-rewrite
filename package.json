@@ -1,5 +1,5 @@
 {
-  "name": "@quillmark/mcp-rewrite",
+  "name": "@quillmark/mcp",
   "version": "0.0.1",
   "description": "Quillmark MCP package",
   "main": "./dist/index.js",
